@@ -78,6 +78,6 @@ App móvil para conectar profesionales con oportunidades laborales de forma mode
 
 ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquerivasperez&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquerivasperez&layout=compact&theme=tokyonight)
+
 
 
