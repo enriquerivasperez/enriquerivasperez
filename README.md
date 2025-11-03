@@ -74,3 +74,11 @@ App móvil para conectar profesionales con oportunidades laborales de forma mode
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 📊 GitHub Stats
+
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquerivasperez&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquerivasperez&layout=compact&theme=tokyonight)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=enriquerivasperez.visitor-badge)
+
