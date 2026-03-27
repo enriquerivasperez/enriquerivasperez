@@ -20,7 +20,7 @@ App móvil para conectar profesionales con oportunidades laborales de forma mode
 
 📌 Estado: *En desarrollo activo*
 
-👉 Repositorio: https://github.com/enriquerivasperez/JobTerra
+👉 Repositorio: [https://github.com/enriquerivasperez/JobTerra](https://github.com/enriquerivasperez/JobsTerra)
 
 ---
 
